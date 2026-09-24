@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - casual
 post: https://github.com/SalvatorePreviti/js13k-2020/wiki/Post-Mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
